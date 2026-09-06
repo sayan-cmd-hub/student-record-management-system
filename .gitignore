@@ -1,0 +1,18 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# PyCharm / JetBrains IDE files
+.idea/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python test/cache files
+.pytest_cache/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
