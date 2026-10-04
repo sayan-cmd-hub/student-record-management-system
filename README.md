@@ -1,7 +1,5 @@
 # Student Record Management and Search System
 
-## AI/ML Laboratory - Assignment X_01
-
 A Python-based Student Record Management and Search System developed using Object-Oriented Programming (OOP), basic searching techniques, command-line arguments, and file handling for TXT, CSV, and JSON files.
 
 ## A. Objective
